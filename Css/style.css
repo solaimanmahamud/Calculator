@@ -1,0 +1,35 @@
+.Calculator {
+    height: 380px;
+    width: 280px;
+    background: rgb(89, 201, 230);
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 50px;
+    border: 1px solid rgb(20, 245, 226);
+    border-radius: 2%;
+}
+
+.main-bar {
+    margin-bottom: 20px;
+    text-align: right;
+}
+
+.form-control {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.btn {
+    font-size: 20px;
+    cursor: pointer;
+    width: 61px;
+}
+
+.butline {
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 25px;
+}
